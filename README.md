@@ -1,4 +1,4 @@
-<p style="font-size: 14px; color: #01d901;"><strong>INFORMATION</strong></p>
+<p style="font-size: 12px; color: #01d901;"><strong>INFORMATION</strong></p>
 
 #### 💎 **Refer a Friend and Get a Free Subscription!**  
 when your friend subscribes to any plan (**daily**, **weekly**, or **monthly**), you’ll get a free subscription of the **same duration**.  
